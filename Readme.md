@@ -14,3 +14,9 @@ De acuerdo a los ultimas revisiones de las normativas y politicas de seguridad, 
 66bb9ec43660194bc066bd8b4d35b151  script.py
 
 Revisa si algun archivo fue alterado durante el ultimo ataque y de existir ¿cual seria?
+
+El archivo alterado fue log.txt
+
+Realize un script en bash que primero saca los hashes md5 de los archivos de cierta ruta, luego lo comparo con los hashes originales y me dice si alguno tiene cambios o no
+
+![solucion](https://github.com/kllza/Ejercicio-Cyberseguridad-1/assets/106204432/d5fe758f-ebbe-48f5-8d0a-c58a7e6f5cd6)
